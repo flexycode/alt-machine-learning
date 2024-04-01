@@ -1,6 +1,6 @@
 # 🤖 Machine Learning Repository 🤖   
 
-🤖🤖🤖🤖
+🤖🤖🤖🤖🤖🤖
 
 ## 📘 Topics Covered
 1. 🐍 Python: The core language for almost all things Machine Learning.
@@ -14,4 +14,4 @@
 9. 🔥 PyTorch/TensorFlow: Get to grips with the two dominant deep learning frameworks.
 
 
-🤖🤖🤖🤖🤖🤖
+🤖🤖🤖🤖🤖🤖🤖
